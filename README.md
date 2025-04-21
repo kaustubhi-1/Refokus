@@ -40,5 +40,5 @@ This project is a creative exercise inspired by the **Refokus** website, demonst
 
 ---
 
-## 📁 Folder Structure (Optional Preview)
+
 
